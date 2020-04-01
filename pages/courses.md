@@ -1,40 +1,77 @@
 ---
 layout: page
-title: courses
-description: Student's Courses
+title: Favorite
+description: Favorite Movies
 ---
 
-<div class="navbar">
-    <div class="navbar-inner">
-        <ul class="nav">
-            <li><a href="#current">current courses</a></li>
-            <li><a href="#shortcourses">short courses</a></li>
-            <li><a href="#misc">misc lectures</a></li>
-            <li><a href="#old">former courses</a></li>
-        </ul>
-    </div>
-</div>
+
+### Favorite Movies
+
+<table class="wide">
+<tr>
+  <td class="left">
+    <a href="pages/publpics/iplotCorr.html">
+        <img src="assets/publpics/iplotCorr.png" alt="R/qtlcharts example" title="R/qtlcharts example"/>
+    </a>
+  </td>
+  <td class="right">
+    <a href="pages/publpics/tian2016_fig4.html">
+        <img src="assets/publpics/tian2016_fig4.png" alt="Tian et
+        al. (2016) Fig 4" title="Tian et al. (2016) Fig 4"/>
+    </a>
+  </td>
+</tr>
+<tr>
+  <td class="left">
+    <a href="pages/publpics/samplemixups_fig7.html">
+        <img src="assets/publpics/samplemixups_fig7.png" alt="Broman et al. (2013) Fig 7" title="Broman et al. (2013) Fig 7"/>
+    </a>
+  </td>
+  <td class="right">
+    <a href="pages/publpics/isletc6_fig4.html">
+        <img src="assets/publpics/isletc6_fig4.png" alt="Tian et al. (2015) Fig 4" title="Tian et al. (2015) Fig 4"/>
+    </a>
+  </td>
+</tr>
+</table>
 
 
-### <a name="current"></a>Current courses
-
-#### [Data Analytics Introduction and Practicum](http://bsharvey.github.io) (EMSE 6992; Fall, 2017)
-
-- [Site](https://bsharvey.github.io/)
-- [My Portfolio](https://username.github.io/)
-- [Assignments](https://github.com/bsharvey/EMSEDataAnalytics/tree/master/EMSE6992_Assignments)
-- [Labs](https://github.com/bsharvey/EMSEDataAnalytics/tree/master/EMSE6992_Labs)
-
----
-
-### <a name="shortcourses"></a>Short courses
-
----
-
-### <a name="misc"></a>Miscellaneous lectures
 
 
----
+<table class="wide1">
+<tr>
+  <td class="left">
+    <a href="pages/publpics/iplotCorr.html">
+        <img src="assets/publpics/iplotCorr.png" alt="R/qtlcharts example" title="R/qtlcharts example"/>
+    </a>
+  </td>
+  <td class="right">
+    <a href="pages/publpics/tian2016_fig4.html">
+        <img src="assets/publpics/tian2016_fig4.png" alt="Tian et
+        al. (2016) Fig 4" title="Tian et al. (2016) Fig 4"/>
+    </a>
+  </td>
+</tr>
+<tr>
+  <td class="left">
+    <a href="pages/publpics/samplemixups_fig7.html">
+        <img src="assets/publpics/samplemixups_fig7.png" alt="Broman et al. (2013) Fig 7" title="Broman et al. (2013) Fig 7"/>
+    </a>
+  </td>
+  <td class="right">
+    <a href="pages/publpics/isletc6_fig4.html">
+        <img src="assets/publpics/isletc6_fig4.png" alt="Tian et al. (2015) Fig 4" title="Tian et al. (2015) Fig 4"/>
+    </a>
+  </td>
+</tr>
+</table>
 
-### <a name="old"></a>Former courses
 
+
+<table class="wide2">
+<tr>
+  <td class="left">
+    <a href="pages/publpics/iplotCorr.html">
+        <img src="assets/publpics/iplotCorr.png" alt="R/qtlcharts example" title="R/qtlcharts example"/>
+    </a>
+  </td>
