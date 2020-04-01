@@ -3,5 +3,5 @@ layout: page
 title: Log Out?
 ---
 
-# Yes
-# No
+## Yes
+## No yet
