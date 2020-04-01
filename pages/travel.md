@@ -1,9 +1,7 @@
 ---
 layout: page
-title: Sure
+title: Log Out?
 ---
 
-
-# Log Out?
 # Yes
 # No
