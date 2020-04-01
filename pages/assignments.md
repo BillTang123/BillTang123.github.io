@@ -3,7 +3,7 @@ layout: page
 title: Rated
 description: Rated Movies
 ---
-
+<img src="TT.jpg" alt="R/qtlcharts example" title="R/qtlcharts example"/>
 
 <div class="navbar">
     <div class="navbar-inner">
