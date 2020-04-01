@@ -15,6 +15,11 @@ description: Recommendations
         <img src="R1.jpg" alt="R/qtlcharts example" title="R/qtlcharts example"/>
     </a>
   </td>
+  <td class="right">
+    <a href="pages/publpics/iplotCorr.html">
+        <img src="R2.jpg" alt="R/qtlcharts example" title="R/qtlcharts example"/>
+    </a>
+  </td>
 </tr>
 
     
