@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Cooming Soon
-description: Cooming Soon
+title: Coming Soon
+description: Coming Soon
 ---
 
 <img src="TT.jpg" alt="R/qtlcharts example" title="R/qtlcharts example"/>
