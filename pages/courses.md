@@ -4,6 +4,7 @@ title: Recommendations
 description: Recommendations
 ---
 
+<img src="TT.jpg" alt="R/qtlcharts example" title="R/qtlcharts example"/>
 
 ### Recommendations based on your rating history
 
