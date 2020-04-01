@@ -8,15 +8,15 @@ keywords: statistics, data analytics
 <div class="navbar">
   <div class="navbar-inner">
       <ul class="nav">
-          <li><a href="{{ BASE_PATH }}/assets/broman_cv.pdf">cv</a></li>
-          <li><a href="https://github.com/bsharvey">github</a></li>
+          <li><a href="{{ BASE_PATH }}/assets/broman_cv.pdf">Refresh</a></li>
+          <li><a href="https://github.com/bsharvey">Survey</a></li>
           <li><a href="http://kbroman.org/blog">blog</a></li>
           <li><a href="https://www.linkedin.com/in/benjamin-harvey-ph-d-1928839a/">LinkedIn</a></li>
       </ul>
   </div>
 </div>
 
-### <a name="Portfolio"></a>Portfolio
+### <a name="Portfolio"></a>Movies You May Like
 
 <table class="wide">
 <tr>
@@ -49,7 +49,7 @@ keywords: statistics, data analytics
 <div class="navbar">
   <div class="navbar-inner">
       <ul class="nav">
-          <li><a href="morefigs.html">see more figures</a></li>
+          <li><a href="morefigs.html">Load More</a></li>
       </ul>
   </div>
 </div>
