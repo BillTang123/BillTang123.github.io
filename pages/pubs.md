@@ -3,7 +3,7 @@ layout: page
 title: Favorite
 description: Favorite Movies
 ---
-
+<img src="TT.jpg" alt="R/qtlcharts example" title="R/qtlcharts example"/>
 
 ### Favorite Movies
 
