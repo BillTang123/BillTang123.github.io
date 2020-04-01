@@ -25,6 +25,8 @@ keywords:
         <img src="M1.jpg" alt="R/qtlcharts example" title="R/qtlcharts example"/>
     </a>
   </td>
+</tr> 
+<tr>
   <td class="right">
     <a href="https://www.imdb.com/title/tt0087843/">
         <img src="M2.jpg" alt="Tian et
