@@ -10,6 +10,7 @@ title: Karl Broman
       <ul class="nav">
           <li><a href="{{ BASE_PATH }}/assets/broman_cv.pdf">Refresh</a></li>
           <li><a href="https://github.com/bsharvey">Survey</a></li>
+          <li><a href="http://kbroman.org/blog">blog</a></li>
       </ul>
   </div>
 </div>
