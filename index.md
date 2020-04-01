@@ -5,6 +5,10 @@ description:
 keywords: 
 ---
 
+<img src="T.jpg" alt="R/qtlcharts example" title="R/qtlcharts example"/>
+
+  
+  
 <div class="navbar">
   <div class="navbar-inner">
       <ul class="nav">
