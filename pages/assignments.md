@@ -8,7 +8,7 @@ description: Ben Harvey's assignments
 <div class="navbar">
     <div class="navbar-inner">
         <ul class="nav">
-            <li><a href="#Assignment1">Assignment1</a></li>
+            <li><a href="#Assignment1">0-1</a></li>
             <li><a href="#Assignment2">Assignment2</a></li>
             <li><a href="#Assignment3">Assignment3</a></li>
             <li><a href="#Assignment4">Assignment4</a></li>
