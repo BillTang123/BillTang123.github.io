@@ -1,19 +1,38 @@
 ---
 layout: page
-title: Presentations
-description: Student's Presentations in Data Analytics
+title: Cooming Soon
+description: Cooming Soon
 ---
 
 
-###  2017
+<table class="wide1">
+<tr>
+  <td class="left">
+    <a href="pages/publpics/iplotCorr.html">
+        <img src="assets/publpics/iplotCorr.png" alt="R/qtlcharts example" title="R/qtlcharts example"/>
+    </a>
+  </td>
+  <td class="right">
+    <a href="pages/publpics/tian2016_fig4.html">
+        <img src="assets/publpics/tian2016_fig4.png" alt="Tian et
+        al. (2016) Fig 4" title="Tian et al. (2016) Fig 4"/>
+    </a>
+  </td>
+</tr>
+<tr>
+  <td class="left">
+    <a href="pages/publpics/samplemixups_fig7.html">
+        <img src="assets/publpics/samplemixups_fig7.png" alt="Broman et al. (2013) Fig 7" title="Broman et al. (2013) Fig 7"/>
+    </a>
+  </td>
+  <td class="right">
+    <a href="pages/publpics/isletc6_fig4.html">
+        <img src="assets/publpics/isletc6_fig4.png" alt="Tian et al. (2015) Fig 4" title="Tian et al. (2015) Fig 4"/>
+    </a>
+  </td>
+</tr>
+</table>
 
-#### EMSE 6992 Final Project: {Enter Title Here}
-<br/>&nbsp; &nbsp; &nbsp; Slides:
-[![pdf](icons16/pdf-icon.png)](https://www.biostat.wisc.edu/~kbroman/presentations/SGN2017/sgn2017.pdf)
-[![github](icons16/github-icon.png)](https://github.com/kbroman/Talk_SGN2017)<br/>
-&nbsp; &nbsp; &nbsp; 
-
----
 
 
 
