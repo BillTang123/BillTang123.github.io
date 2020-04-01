@@ -1,62 +1,77 @@
 ---
 layout: page
-title: publications
-description: Ben Harvey's publications
----
-
-<div class="navbar">
-    <div class="navbar-inner">
-        <ul class="nav">
-            <li><a href="#book">book</a></li>
-            <li><a href="#articles">articles</a></li>
-            <li><a href="#conferences">conferences</a></li>
-            <li><a href="#editorials">editorials</a></li>
-            <li><a href="#letters">letters</a></li>
-            <li><a href="#chapters">chapters</a></li>
-            <li><a href="#techreports">tech reports</a></li>
-            <li><a href="#thesis">dissertation</a></li>
-        </ul>
-    </div>
-</div>
-
-
-#### <a name="book"></a>book
-
-
----
-
-#### <a name="articles"></a>journal articles
-
+title: Favorite
+description: Favorite Movies
 ---
 
 
-#### <a name="conferences"></a>conferences
+### Favorite Movies
 
----
+<table class="wide">
+<tr>
+  <td class="left">
+    <a href="pages/publpics/iplotCorr.html">
+        <img src="assets/publpics/iplotCorr.png" alt="R/qtlcharts example" title="R/qtlcharts example"/>
+    </a>
+  </td>
+  <td class="right">
+    <a href="pages/publpics/tian2016_fig4.html">
+        <img src="assets/publpics/tian2016_fig4.png" alt="Tian et
+        al. (2016) Fig 4" title="Tian et al. (2016) Fig 4"/>
+    </a>
+  </td>
+</tr>
+<tr>
+  <td class="left">
+    <a href="pages/publpics/samplemixups_fig7.html">
+        <img src="assets/publpics/samplemixups_fig7.png" alt="Broman et al. (2013) Fig 7" title="Broman et al. (2013) Fig 7"/>
+    </a>
+  </td>
+  <td class="right">
+    <a href="pages/publpics/isletc6_fig4.html">
+        <img src="assets/publpics/isletc6_fig4.png" alt="Tian et al. (2015) Fig 4" title="Tian et al. (2015) Fig 4"/>
+    </a>
+  </td>
+</tr>
+</table>
 
 
-#### <a name="editorials"></a>editorials
-
----
 
 
-#### <a name="letters"></a>letters
+<table class="wide1">
+<tr>
+  <td class="left">
+    <a href="pages/publpics/iplotCorr.html">
+        <img src="assets/publpics/iplotCorr.png" alt="R/qtlcharts example" title="R/qtlcharts example"/>
+    </a>
+  </td>
+  <td class="right">
+    <a href="pages/publpics/tian2016_fig4.html">
+        <img src="assets/publpics/tian2016_fig4.png" alt="Tian et
+        al. (2016) Fig 4" title="Tian et al. (2016) Fig 4"/>
+    </a>
+  </td>
+</tr>
+<tr>
+  <td class="left">
+    <a href="pages/publpics/samplemixups_fig7.html">
+        <img src="assets/publpics/samplemixups_fig7.png" alt="Broman et al. (2013) Fig 7" title="Broman et al. (2013) Fig 7"/>
+    </a>
+  </td>
+  <td class="right">
+    <a href="pages/publpics/isletc6_fig4.html">
+        <img src="assets/publpics/isletc6_fig4.png" alt="Tian et al. (2015) Fig 4" title="Tian et al. (2015) Fig 4"/>
+    </a>
+  </td>
+</tr>
+</table>
 
----
 
 
-#### <a name="chapters"></a>proceedings and book chapters
-
----
-
-
-#### <a name="techreports"></a>technical reports
-
----
-
-
-#### <a name="thesis"></a>dissertation
-
----
-
-
+<table class="wide2">
+<tr>
+  <td class="left">
+    <a href="pages/publpics/iplotCorr.html">
+        <img src="assets/publpics/iplotCorr.png" alt="R/qtlcharts example" title="R/qtlcharts example"/>
+    </a>
+  </td>
